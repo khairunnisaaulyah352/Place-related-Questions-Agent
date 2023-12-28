@@ -1,2 +1,2 @@
-google.generativeai==latest
+google.generativeai==0.3.2
 
